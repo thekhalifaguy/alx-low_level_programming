@@ -1,6 +1,9 @@
 #include <stdio.h>
+
 #include <stdlib.h>
+
 #include <time.h>
+
 
 /**
  * main - Prints the alphabet in upper case and in lower case
@@ -10,6 +13,7 @@
 int main(void)
 
 {
+	
 	char low;
 
 	for (low = 'a'; low <= 'z'; low++)
